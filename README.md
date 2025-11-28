@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Shannon Elena 🩺⚙️🔧
+Medical Technology student at ITS with interests in IoT, microcontrollers, signal processing, and digital systems.
 
-<!--
-**shannonelena/shannonelena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+- Programming: Python, C++, Arduino
+- Software & Tools: VS Code, KiCad, Proteus, IBM SPSS Statistics 26, MATLAB, Google Colab, Spyder, Autodesk Inventor, XAMPP - phpMyAdmin, Canva, Capcut, Microsoft Word, Microsoft Excel, Google Docs, Google Sheets
+- IoT & Hardware: ESP32, PIR Sensor, basic circuit design
+- Other Technical Skills: Firmware development, signal processing, digital system integration
+- Soft Skills: Communication, leadership, teamwork, adaptability, problem-solving, fast learning
 
-Here are some ideas to get you started:
+## Projects
+- IoT-Based Flood Monitoring and Early Warning System Using ESP32 and Telegram Notification
+- Patient Safety Monitoring Sensor
+- EEG Signal Processing with Python
+- Hospital Information System (SIM-RS) Website
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+Email: elenashannon88@gmail.com  
+LinkedIn: www.linkedin.com/in/shannon-elena-b429b4326
